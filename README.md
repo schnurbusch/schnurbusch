@@ -15,6 +15,7 @@ below started as a problem in a game I actually finished, not as a product idea.
 | **PortraitFit** | Portrait WebGL template with a setup window. In review. |
 
 Full C# source in every one of them. No DLLs, no dependencies beyond what Unity ships.
+All of them on one page: [my Asset Store publisher profile](https://assetstore.unity.com/publishers/148670).
 
 ## The game they came from
 
@@ -33,4 +34,4 @@ audio file.
 
 ## Elsewhere
 
-[schnurbusch.github.io](https://schnurbusch.github.io) · [itch.io](https://schnurbusch.itch.io) · daniel.schnurbusch@web.de
+[schnurbusch.github.io](https://schnurbusch.github.io) · [Unity Asset Store](https://assetstore.unity.com/publishers/148670) · [itch.io](https://schnurbusch.itch.io) · daniel.schnurbusch@web.de
