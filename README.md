@@ -13,14 +13,14 @@ below started as a problem in a game I actually finished, not as a product idea.
 | **[LocLayer](https://assetstore.unity.com/packages/tools/localization/loclayer-localize-without-refactoring-394954)** | Localization as a layer over your existing UI. No keys, no wrapper calls, no rewrite. |
 | **[HintOnce](https://assetstore.unity.com/packages/tools/gui/hintonce-first-time-hints-with-one-line-of-code-396738)** | First-time hints in one line of code. No prefab, no canvas, no manager. Free. |
 | **[PortraitFit](https://assetstore.unity.com/packages/tools/utilities/portraitfit-portrait-webgl-template-for-unity-395204)** | Portrait WebGL template with a setup window. Letterboxed on desktop, full screen on phones. |
+| **[SettingsNow](https://assetstore.unity.com/packages/tools/gui/settingsnow-settings-menu-and-key-rebinding-400724)** | A settings menu and key rebinding in one call. Your own settings need one attribute, not a registration call. |
 
 Full C# source in every one of them. No DLLs, no dependencies beyond what Unity ships.
 All of them on one page: [my Asset Store publisher profile](https://assetstore.unity.com/publishers/148670).
 
-Three more are in review: **SettingsNow**, a settings menu and key rebinding in one call,
-where your own settings need one attribute rather than a registration call. **RowPool**,
-virtualised lists for uGUI, where a hundred thousand entries cost the same seventeen
-GameObjects as twenty do. And **RowPool Lite**, the free version of it.
+Two more are in review: **RowPool**, virtualised lists for uGUI, where a hundred thousand
+entries cost the same seventeen GameObjects as twenty do. And **RowPool Lite**, the free
+version of it.
 
 ## The game they came from
 
