@@ -14,13 +14,10 @@ below started as a problem in a game I actually finished, not as a product idea.
 | **[HintOnce](https://assetstore.unity.com/packages/tools/gui/hintonce-first-time-hints-with-one-line-of-code-396738)** | First-time hints in one line of code. No prefab, no canvas, no manager. Free. |
 | **[PortraitFit](https://assetstore.unity.com/packages/tools/utilities/portraitfit-portrait-webgl-template-for-unity-395204)** | Portrait WebGL template with a setup window. Letterboxed on desktop, full screen on phones. |
 | **[SettingsNow](https://assetstore.unity.com/packages/tools/gui/settingsnow-settings-menu-and-key-rebinding-400724)** | A settings menu and key rebinding in one call. Your own settings need one attribute, not a registration call. |
+| **[RowPool](https://assetstore.unity.com/packages/tools/gui/rowpool-recycling-scroll-view-for-ugui-401652)** | Virtualised lists for uGUI. A hundred thousand entries cost the same seventeen GameObjects as twenty do. One call to Attach. |
 
 Full C# source in every one of them. No DLLs, no dependencies beyond what Unity ships.
 All of them on one page: [my Asset Store publisher profile](https://assetstore.unity.com/publishers/148670).
-
-Two more are in review: **RowPool**, virtualised lists for uGUI, where a hundred thousand
-entries cost the same seventeen GameObjects as twenty do. And **RowPool Lite**, the free
-version of it.
 
 ## The game they came from
 
